@@ -2,6 +2,7 @@
 
 ## app.py若是無法執行，可以使用colab直接運行
 colab:https://colab.research.google.com/drive/12RbTWodnvuYtnWZW1CkcKHIdkeGF6Nsp?usp=sharing
+Model:https://drive.google.com/file/d/1-FHd_ncfPOQI6cMSfovZwosgrhd110Z2/view?usp=sharing
 
 ### preprocessing
 - 在網頁上下載了兩個csv檔，分別是"本年度每日尖峰備轉容量率"與"近三年每日尖峰備轉容量率"。
